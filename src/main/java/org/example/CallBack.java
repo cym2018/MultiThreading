@@ -1,5 +1,7 @@
 package org.example;
 
 public interface CallBack {
-    void callBack(String message);
+    int get();
+
+    void set(String message);
 }
