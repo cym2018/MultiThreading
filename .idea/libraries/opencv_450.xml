@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="opencv-450">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/opencv/opencv-450.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/opencv" />
+      <root url="file://$USER_HOME$/Saved Games/opencv/build/java/x64" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/opencv/opencv-450.jar!/" />
+    </SOURCES>
+  </library>
+</component>
